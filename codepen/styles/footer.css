@@ -1,0 +1,150 @@
+.footer {
+
+    margin: 0;
+}
+
+.cpBar {
+
+    height: 100px;
+    display: flex; 
+    justify-content:space-between;
+    background-color: #35383f; 
+    align-items: center;
+    font-family:'Varela Round', sans-serif;
+       
+}
+
+.cpBar > .teams {
+
+    border: 2px solid #5E5F64;
+    height: 75%;
+    width: 25%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cpBar > .teams .leftText {
+
+    color:white;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 2.5%;
+
+}
+
+.cpBar > .teams .rightText {
+
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing:-2px;
+    font-weight: bold;
+    font-size: 2em;
+    margin-left: 3px;
+
+}
+
+.cpBar > .education {
+
+    border: 2px solid #5E5F64;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    height: 75%;
+    width: 25%; 
+    
+}
+
+.cpBar > .education .leftText {
+
+    color:white;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 2.5%;
+
+}
+
+.cpBar > .education .rightText {
+
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing:-2px;
+    font-weight: bold;
+    font-size: 2em;
+    margin-left: 3px;
+
+}
+
+.cpBar > .privacy {
+
+    border: 2px solid #5E5F64;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 75%;
+    width: 25%;
+    
+}
+
+.cpBar > .privacy .leftText {
+
+    color:white;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 2.5%;
+
+}
+
+.cpBar > .privacy .rightText {
+
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing:-2px;
+    font-weight: bold;
+    font-size: 2em;
+    margin-left: 3px;
+
+}
+
+.cpBar > .writing {
+
+    border: 2px solid #5E5F64;
+    background-color: #35383F;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 75%;
+    width: 25%;
+    
+}
+
+.cpBar > .writing .leftText {
+
+    color:white;
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 2.5%;
+
+}
+
+.cpBar > .writing .rightText {
+
+    color:white;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing:-2px;
+    font-weight: bold;
+    font-size: 2em;
+    margin-left: 3px;
+
+}
+
+ 
+
+.margin {
+
+    height: 100px;
+    background-color: #191a1e;
+            
+}
+

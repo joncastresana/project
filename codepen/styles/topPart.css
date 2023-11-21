@@ -1,0 +1,194 @@
+.topPart {
+    
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.topPart > .logoCodepen {
+    
+    padding-left: 2%;
+    
+}
+
+.topPart > .navbar {
+
+    margin-left: 10%;
+    font-size: 1.5rem;
+     
+} 
+
+.topPart > .navbar > .explore {
+
+    color: yellow;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1rem; 
+    margin-top: -1rem;
+    margin-bottom: 1rem;   
+    
+}
+
+.topPart > .navbar .linksNavbar {
+
+    width: 100%;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+              
+}
+
+.navbar .linksNavbar .navLink {
+
+    margin-right: 13px;
+    margin-top: -20px;
+    
+}
+
+
+.navbar .linksNavbar .navLink a {
+
+    color: aliceblue;
+    text-decoration: none;
+    font-family: 'Concert One', sans-serif;
+    font-size: 23px;
+       
+}
+
+.topPart > .spark {
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+    margin-left: -70px;
+       
+}
+
+.topPart > .spark p {
+
+    color: rgb(167, 161, 161);
+    margin-left: 90px;
+    margin-right: 12px;
+    margin-bottom: 35px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+.topPart > .spark i {
+
+    color:rgb(167, 161, 161);
+    margin-bottom: 18px;
+    
+}
+
+.topPart > .createButton { 
+  
+    justify-content: center; 
+    margin-left: 350px;
+    display: flex;
+    align-items: center;         
+
+}
+
+.topPart > .createButton > button {
+
+    background-color: #35383F;
+    font-size: 1.5em;
+    padding: 25px 46px;
+    margin-left: 80px;
+    border: none;
+    border-radius: 5px;
+    display: flex; 
+    align-items: center;
+                     
+}
+
+.topPart > .createButton > button .buttonText {
+   
+   color: white;
+   margin-left: -15px;
+
+}
+
+.topPart > .createButton i {
+
+    margin-left: -40px; 
+    color: green;
+    font-size: 30px;
+
+}
+
+.topPart > .searchIcon {
+
+    color: gray;
+    font-size: 35px;   
+}
+
+.topPart > .searchIcon i {
+
+    margin-left: 40px;  
+
+}
+
+ .topPart > .loginButton {
+    
+    margin-right: 40px; 
+    margin-left: 30px;  
+    display: flex;
+    align-items: center;  
+      
+}
+
+.topPart > .loginButton > button {
+
+    background-color: #35383F;
+    font-size: 1.2em;
+    padding: 25px 20px;
+    border: none;
+    border-radius: 5px;
+    display: flex; 
+    align-items: center;
+    margin-left: 0px;
+          
+}
+
+.topPart > .loginButton > button .buttonText {
+    
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+ }
+
+.topPart > .signUpButton {
+
+    display: flex; 
+    align-items: center;
+    margin-left: -25px;  
+    margin-right: 14px;
+        
+} 
+
+.topPart > .signUpButton button{
+    
+    font-size: 1.2em;
+    padding: 25px 40px;
+    background-color: #35383F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
+
+    
+
+
+

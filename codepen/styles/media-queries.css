@@ -1,0 +1,104 @@
+@media (max-width: 615px) {
+    .topPart {
+
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .topPart > .navbar {
+
+        margin-left: 0px; 
+    }
+
+    .topPart > .createButton {
+
+        margin-left: -90px;
+    }
+
+    .topPart > .searchIcon {
+
+        margin-left: -40px;
+    }
+
+    .topPart > .loginButton {
+
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .topPart > .signUpButton {
+
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .contentPart {
+
+        flex-direction: column;
+        margin-top: 0;
+    }
+
+    .leftSide > .leftText {
+
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .leftSide > .leftText2 {
+
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .leftSide > .btnsContainer {
+
+        margin-left: 0;
+    }
+
+    .leftSide > .btnsContainer > .signUpFreeBtn > button{
+
+        margin-right: 0;
+    }
+    .leftSide > .btnsContainer > .learnMoreBtn > button {
+
+        margin-right: 0;
+    }
+
+    .rightSide > .imgLabel {
+
+        margin-left: 0;
+    }
+
+
+    .footer {
+
+        margin: 0;
+    }
+
+    .cpBar {
+
+        flex-direction: column;
+    }
+
+    .cpBar > .teams {
+
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .cpBar > .education {
+
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .cpBar > .privacy {
+
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .cpBar > .writing {
+        
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+ 

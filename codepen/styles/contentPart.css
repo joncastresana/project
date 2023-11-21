@@ -1,0 +1,131 @@
+.contentPart{
+    
+    display: flex;
+    width: 100%;
+    align-items: center; 
+    flex-direction: row; 
+    justify-content: space-between;
+    margin-top: -3%;
+        
+}
+
+
+.leftSide {
+
+    display: flex;
+    flex-direction: column;
+       
+}
+
+.rightSide {
+
+    display: flex;
+    flex-direction: column;
+               
+}
+
+.leftSide > .leftText {
+
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family:'Varela Round', sans-serif;
+    font-size: 50px;
+    margin-left: 90px;
+    line-height: 1; 
+               
+}
+
+.leftSide > .leftText2 {
+
+    color:silver;
+    font-family:'Varela Round', sans-serif;
+    font-size: 30px;
+    margin-left: 10%;
+    margin-bottom: 6%;
+    line-height: 1.6;
+     
+}
+
+.leftSide > .signUpFreeBtn {
+
+    background-color: #35383F;
+    font-size: 1em;
+    padding: 20px 43px;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 5%;
+
+}
+
+.leftSide > .btnsContainer {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10%;
+    
+}
+
+.leftSide > .btnsContainer > .signUpFreeBtn > button {
+
+    background-color: #4ACE7A;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -1px;
+    padding: 20px 30px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 5px;
+    display: flex; 
+    align-items: center;  
+    
+}
+
+.leftSide > .btnsContainer > .learnMoreBtn > button {
+
+    background-color: #111111;
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: -1px;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    display: flex; 
+    align-items: center; 
+    
+}
+
+.rightSide {
+
+    margin-top: 5%;
+
+}
+
+.rightSide > .imgLabel {
+
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+    margin-bottom: -20px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 25px;   
+
+}
+
+.rightSide > .rightImg {
+
+    display: none;
+    
+}
+
+
+
+
+
+
+

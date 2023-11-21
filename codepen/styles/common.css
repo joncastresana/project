@@ -1,0 +1,20 @@
+body {
+
+    background-color: #3A3D46;
+    background: linear-gradient(to top right, #3A3D46, #000000);
+    margin: 0;
+        
+}
+
+.white{
+
+    color:white;
+
+}
+
+.blue{
+
+    color: #6CBCE6;
+    margin-left: 0.3em; 
+    
+}
